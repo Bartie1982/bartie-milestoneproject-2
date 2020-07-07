@@ -188,6 +188,13 @@ hr {
     background: url('/images/vrebac-icecream.jpeg');
 }
 #carousel1-img2 {
+    object-fit: fill;
+    background: url('/images/la-jaira-de-demian-gastro.jpg');
+
+}
+#carousel1-img3 {
+    object-fit: fill;
+    background: url('/images/a-poniente-gastro-bar.jpg');
 
 }
 
