@@ -1,12 +1,10 @@
-MILESTONE PROJECT 2
+### MILESTONE PROJECT 2
 
 Table of content
 
 -Project overview
 
 -Project balsamiq wireframe
-
-
 
 -UX
 
@@ -28,6 +26,14 @@ Table of content
 
 -Acknowledgements
 
+### Project balsamiq wireframe
+
+![Balsamic wireframe](images/mp2-balsamiq-wireframe.png "BALSAMIQ WIREFRAME MILESTONE PROJECT 2")
+
+
+## Project overview
+
+
 Website purpose and information
 
 Milestone project 2 is one of suggestet topics from code institute oabout turist information website.
@@ -39,8 +45,6 @@ Project is created in most easy and redable way with simple menu and scrooling t
 UX
 
 Potencial user who want to get some information in the short time can go thru top menu or simply scrooling down thru website sections. Using carusels of chosen subjects. On the last section footer menu, we also have possibility to sign for a newsleter with new informations about freshly added activiies options or places to stay or eat. Next we have social links and contact info..
-
-Section overview:
 
 Project starts with simple menu  with list when clicked redirecting us to website sections that are most interested for us in given moment.
 
