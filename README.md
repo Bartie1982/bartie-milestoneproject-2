@@ -64,15 +64,16 @@ Last section Footer menu contains posibbility to sign up to website Newsletter w
 
 Futures possible to Implement:
 
-Website is constructad for implementation of new sugestion and recomendations for potential users. There is posibility in building up Main menu with new sugestions subjects, for example, leisure and spa, night life and many others.
+Website is constructad for implementation of new sugestion and recomendations for potential users. Destinations is one choice from main menu with more and more destinations to visit on the island. Different cities or regions may be added to vist fuerte. There is posibility in building up Main menu with new sugestions subjects, for example, leisure and spa, night life and many others.
 
-To all three sections: Activities, to eat  accomoddation we can simply ad new futures, implement more detailed iformation, contact, phone number or redirecting buttons to the web sites for potencial reservation. 
+To all three sections: Activities, to eat  accomoddation we can simply ad new futures, implement more detailed information, contact, phone number or redirecting buttons to the web sites for potencial reservation. 
 
 Footer as well as the rest of the website has options to build up with more information and choicec of contact form.
 
 
 
-Technologies Used
+### Technologies Used
+
 HTML, CSS, BOOTSTRAP, JAVA, and JQUERRY
 
 Code Parts used from Bootstrap.com
@@ -92,11 +93,18 @@ youtube.com
 google com.
 other websites. 
 
+### Media used
+
 In the project were used media from Adobe stock.
-Testing
+Previews of photos with watermarks easy visible.
+Information and descriptions about suggested places to eat or favorit sugestions of accomondation are random, used just for school project pourpose.
+
+### Testing
+
 Html css tests:
 W3c validator
 W3c css validator
+
 Tested Devices:
 Iphone 7
 Iphone 7 plus
@@ -110,17 +118,26 @@ Mozilla
 Tested futures:
 Navbar
 Navbar button
-social media links (Footer)
-Bugs and problems
-/favicon.ico:1 Failed to load resource: the server responded with a status of 503 ()
-Deployment
+
+### social media links (Footer)
+
+facebook.com
+instagram.com
+linkedin.com
+youtube.com
+
+
+### Deployment
+
 Website content deployed on -Github
 Website github link: 
 HTML, CSS, BOOTSTRAP, JAVA, JQUERRY Code sources
 Parts of Navbar html - source Getboootstrap.com
 Parts of Footer html,css, fa, Java 
 Getbootstrap.com classes used
-Credits
+
+### Credits
+
 www.codeinstitute.net
 www.github.com
 www.getboootstrap.com
@@ -128,9 +145,13 @@ www.balsamiq.com
 www.geeksforgeeks.org
 www.w3schools.com
 Content
-Text for all the website sections: Tp eat, Accommodation used from fb pages rest  created personaly for purpose of website use.
-Media
-Photos used in this site were obtained from:
-Used preview pics from adobe stock library
-Acknowledgements
+Text for all the website sections: 
+To eat: La jaira by Demain (info form: https://www.lonelyplanet.com/) 
+To eat: A poniete gastro bar (info from https://macaronesiafuerteventura.com/)
+Accommodation: MINIMALIST VILLA WITH GREAT VOLCANO VIEW (tripadvisor.com)
+Acommodation: VOLCANIC HOUSE IN FUERTAVENTURA (tripadvisor.com)
+Acommodaton: Sunrise VILLA (Webb google search)
+Used help from fb pages.
+All media and info used  personaly for purpose of School project use.
+
 MIT © Bartosz Szkaradzinski
