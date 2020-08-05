@@ -131,12 +131,12 @@ youtube.com
 
 ### Deployment
 
-Website content deployed on -Github
-Website github link: 
-HTML, CSS, BOOTSTRAP, JAVA, JQUERRY Code sources
-Parts of Navbar html - source Getboootstrap.com
-Parts of Footer html,css, fa, Java 
-Getbootstrap.com classes used
+Website content deployed on - gitpages
+To open website copy link below.
+Website gitpages link: https://bartie1982.github.io/bartie-milestoneproject-2/
+Project source code on github.
+Github link: https://github.com/Bartie1982/bartie-milestoneproject-2
+
 
 ### Credits
 
