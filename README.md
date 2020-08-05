@@ -79,6 +79,7 @@ HTML, CSS, BOOTSTRAP, JAVA, and JQUERRY
 Code Parts used from Bootstrap.com
 
 Navbar,
+Section 2, Activities using java
 Section 3, Carousel
 Section 4, Carousel
 Section 3  Using google maps api.
@@ -86,7 +87,8 @@ Section 4  Using google maps api.
 Footer newsletter modal.
 Footer contact modal. 
 
-
+Html code using bootstrap modals and temlates.
+Added clases, paragraph and code parts.
 Css code mostly writen by author, with sources from 
 w3schools.com
 youtube.com

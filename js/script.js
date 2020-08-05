@@ -4,28 +4,28 @@
 var map;
 var points = {
   point1: {
-    lat: 0,
-    lng: 0,
+    lat: 28.7381728,
+    lng: -13.8710679,
   },
   point2: {
-    lat: 0,
-    lng: 0,
+    lat: 28.5000547,
+    lng: -13.8630587,
   },
   point3: {
-    lat: -34.397,
-    lng: 150.644,
+    lat: 28.733043 ,
+    lng: -13.8724169,
   },
   point4: {
-    lat: 0,
-    lng: 0,
+    lat: 28.7650478,
+    lng: -13.8723465,
   },
   point5: {
-    lat: 0,
-    lng: 0,
+    lat: 32.3963657,
+    lng: -14.9171875,
   },
   point6: {
-    lat: 0,
-    lng: 0,
+    lat: 29.733043,
+    lng: -14.9171875,
   },
 };
 
@@ -50,7 +50,7 @@ $(document).on('click', '.carousel-1-floating-box, .carousel-2-floating-box', fu
   }
 });
 
-/*----------------------------------------------Activities section */
+/*----------------------------------------------Activities */
 
 $(document).on('click', '.activity-item', function () {
   const $that = $(this);
